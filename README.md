@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+his is the local version of the README.
+This is the remote version of the README.
 # Blog (Multilanguage) with Laravel 9 Youtube Course!
 
 في هذه السلسلسة من الدروس سنقوم بشرح كيفية انشاء مدونة أو موقع اخباري متعدد اللغات بواسطة 
@@ -25,3 +28,6 @@ branch
 14 - انشاء مستخدم جديد
 15 - تشفير باسورد اليوزر 
 16 - انشاء أقسام رئيسية وفرعية وربطها ببعض
+=======
+# multilanguage_-blog
+>>>>>>> 533823d071be92678b15183427d304501e31331b
